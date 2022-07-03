@@ -1,4 +1,4 @@
-
+![Screenshot](PG_WFTiMS.jpg)
 
 ##### PROJEKT (własny) z Politechniki Gdańskiej
 
