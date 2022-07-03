@@ -1,4 +1,4 @@
-<img src="PG_WFTiMS.jpg" alt="Politechnika Gdańska" width="300" height="auto"> 
+<img src="Portfolio_Netflix/PG_WFTiMS.jpg" alt="Politechnika Gdańska" width="300" height="auto"> 
 
 
 ##### PROJEKT (własny) z Politechniki Gdańskiej
