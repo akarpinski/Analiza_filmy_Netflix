@@ -19,8 +19,8 @@ Oparty jest na wybranych danych  dotyczących Systemu Rekomendacji Filmów.
 ##### Potem prognozowałem przyszłe wyniki (do 2030 r.) na podstawie zebranych danych (ekstrapolacja).
 
 ##### Badania oparłem na regresji wielomianowej.
-- Dla znajdowania wartości pośrednich w obecnych czasach wykorzystałem metodę interpolacji.
-- Prognozowanie wyników w przyszłości oparłem na ekstrapolacji. 
+- Interpolacja – metoda dla znajdowania wartości pośrednich w obecnych czasach obejmujących.
+- Ekstrapolacja – metoda prognozowania przyszłych wyników na podstawie zebranych wcześniej danych. 
 
 ```
 Projekt oparty został na otwartych danych z platformy Kaggle.
