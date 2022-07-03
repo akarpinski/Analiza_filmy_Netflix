@@ -1,6 +1,7 @@
 PROJEKT (własny) z Politechniki Gdańskiej
 
-Tytuł pracy w języku polskim:  Analiza danych filmowych na platformie Netflix
+Tytuł pracy w języku polskim:  <b> Analiza danych filmowych na platformie Netflix </b>
+
 Tytuł pracy w języku angielskim:  Analysis of movie data on the Netflix platform
 
 Wstęp
