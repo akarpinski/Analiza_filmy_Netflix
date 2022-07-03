@@ -2,6 +2,9 @@
 
 
 ##### PROJEKT (własny) z Politechniki Gdańskiej
+- kod w języku Python na edytorze Jupyter Notebook
+- wyniki do podglądu w przeglądarce z notatnika Jupyter lub pliku HTML
+- dokładna, pełna dokumentacja projeku w pliku PDF
 ---
 
 ### Analiza danych filmowych na platformie Netflix
