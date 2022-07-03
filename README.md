@@ -2,7 +2,7 @@
 
 Analiza danych filmowych na platformie Netflix
 
-###Analysis of movie data on the Netflix platform
+### Analysis of movie data on the Netflix platform
 
 #### Wstęp
 Projekt dotyczy analizy danych filmowych na platformie Netflix.
