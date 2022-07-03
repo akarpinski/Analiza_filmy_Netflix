@@ -1,6 +1,6 @@
 ![Screenshot](PG_WFTiMS.jpg)
 
- <img src="PG_WFTiMS.jpg" alt="Politechnika Gdańska" width="500" height="600"> 
+ <img src="PG_WFTiMS.jpg" alt="Politechnika Gdańska" width="200" height="auto"> 
 
 ##### PROJEKT (własny) z Politechniki Gdańskiej
 
