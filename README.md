@@ -1,7 +1,8 @@
-<img src="PG_WFTiMS.jpg" alt="Politechnika Gdańska" width="500" height="auto"> 
+<img src="PG_WFTiMS.jpg" alt="Politechnika Gdańska" width="400" height="auto"> 
 
 
 ##### PROJEKT (własny) z Politechniki Gdańskiej
+---
 
 ### Analiza danych filmowych na platformie Netflix
 
