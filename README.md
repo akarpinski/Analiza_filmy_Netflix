@@ -16,7 +16,7 @@ Oparty jest na wybranych danych  dotyczących Systemu Rekomendacji Filmów.
 3. Nie chodzi o rekomendowanie, reklamowanie tytułów widzom na podstawie zebranych o nich danych, prefencji.
 
 ###### Najpierw przeprowadziłem prognozowanie wyników w przedziale czasu obejmującym zebrane dane (interpolacja).
-##### Potem prognozowałem przyszłe wyniki (do 2030 r.) na podstawie zebranych danych (ekstrapolacja).
+###### Potem prognozowałem przyszłe wyniki (do 2030 r.) na podstawie zebranych danych (ekstrapolacja).
 
 ##### Badania oparłem na regresji wielomianowej.
 - Interpolacja – metoda dla znajdowania wartości pośrednich w obecnych czasach obejmujących.
