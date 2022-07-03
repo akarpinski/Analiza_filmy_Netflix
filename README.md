@@ -6,7 +6,8 @@ Tytuł pracy w języku angielskim:  <b> Analysis of movie data on the Netflix pl
 
 #### Wstęp
 Projekt dotyczy analizy danych filmowych na platformie Netflix.
-Projekt oparty jest na wybranych danych  dotyczących Systemu Rekomendacji Filmów.
+
+Oparty jest na wybranych danych  dotyczących Systemu Rekomendacji Filmów.
 - tytuły filmów
 - czas wydania, najważniejsze gatunki filmów
 - oceny i daty jej wystawienia
