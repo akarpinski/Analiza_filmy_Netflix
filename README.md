@@ -1,4 +1,4 @@
-#### PROJEKT (własny) z Politechniki Gdańskiej
+##### PROJEKT (własny) z Politechniki Gdańskiej
 
 <b> Analiza danych filmowych na platformie Netflix </b>
 
