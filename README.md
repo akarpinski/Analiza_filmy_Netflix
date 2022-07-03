@@ -1,4 +1,4 @@
-<img src="PG_WFTiMS.jpg" alt="Politechnika Gdańska" width="400" height="auto"> 
+<img src="PG_WFTiMS.jpg" alt="Politechnika Gdańska" width="300" height="auto"> 
 
 
 ##### PROJEKT (własny) z Politechniki Gdańskiej
@@ -26,7 +26,7 @@ Potem prognozowałem przyszłe wyniki (do 2030 r.) na podstawie zebranych danych
 ```
 
 ##### Badania oparłem na regresji wielomianowej.
-- Interpolacja – metoda dla znajdowania wartości pośrednich w obecnych czasach obejmujących.
+- Interpolacja – metoda dla znajdowania wartości pośrednich w obecnych czasach obejmujących zebrane dane.
 - Ekstrapolacja – metoda prognozowania przyszłych wyników na podstawie zebranych wcześniej danych. 
 
 ```
