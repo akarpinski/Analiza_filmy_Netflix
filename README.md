@@ -1,8 +1,8 @@
 ##### PROJEKT (własny) z Politechniki Gdańskiej
 
-<b> Analiza danych filmowych na platformie Netflix </b>
+Analiza danych filmowych na platformie Netflix
 
-<b> Analysis of movie data on the Netflix platform </b>
+###Analysis of movie data on the Netflix platform
 
 #### Wstęp
 Projekt dotyczy analizy danych filmowych na platformie Netflix.
