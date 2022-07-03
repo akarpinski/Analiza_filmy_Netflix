@@ -29,7 +29,7 @@ Potem prognozowałem przyszłe wyniki (do 2030 r.) na podstawie zebranych danych
 ```
 
 ##### Badania oparłem na regresji wielomianowej.
-- Interpolacja – metoda dla znajdowania wartości pośrednich w obecnych czasach obejmujących zebrane dane.
+- Interpolacja – metoda znajdowania wartości pośrednich w obecnych czasach obejmujących zebrane dane.
 - Ekstrapolacja – metoda prognozowania przyszłych wyników na podstawie zebranych wcześniej danych. 
 
 ```
