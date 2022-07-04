@@ -35,10 +35,7 @@ Potem prognozowałem przyszłe wyniki (do 2030 r.) na podstawie zebranych danych
 
 ```
 Projekt oparty został na otwartych danych z platformy Kaggle.
-```
-##### źródło analizowanych danych - https://www.kaggle.com
-```
 AUTOR zbioru zebranych danych (z Kaggle): Bandi Karthik
 Movie Recommendation System
 ```
-
+##### źródło analizowanych danych - https://www.kaggle.com
