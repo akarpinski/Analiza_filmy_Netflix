@@ -1,10 +1,11 @@
 <img src="Portfolio_Netflix/PG_WFTiMS.jpg" alt="Politechnika Gdańska" width="300" height="auto"> 
 
 ##### PROJEKT (własny) na studiach "Inżynieria danych - Data Science" na Politechnice Gdańskiej.
+
 - kod w języku Python na edytorze Jupyter Notebook
-- wizualny podgląd w przeglądarce z notatnika w pliku "Portfolio_Netflix.ipynb"
-- lub z pliku "Portfolio_Netflix.html" strony w HTML
+- wizualny podgląd w przeglądarce z pliku w Python lub HTML
 - dokładna, pełna dokumentacja projeku w pliku PDF
+
 ---
 
 ### Analiza danych filmowych na platformie Netflix
