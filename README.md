@@ -3,7 +3,7 @@
 ##### PROJEKT (własny) na studiach "Inżynieria danych - Data Science" na Politechnice Gdańskiej.
 
 - kod w języku Python na edytorze Jupyter Notebook
-- wizualny podgląd w przeglądarce z pliku w Python lub HTML
+- wizualny podgląd w przeglądarce z pliku w Python (ipynb) lub HTML
 - dokładna, pełna dokumentacja projeku w pliku PDF
 
 ---
@@ -35,6 +35,7 @@ Potem prognozowałem przyszłe wyniki (do 2030 r.) na podstawie zebranych danych
 
 ```
 Projekt oparty został na otwartych danych z platformy Kaggle.
+##### źródło analizowanych danych - https://www.kaggle.com
 AUTOR zbioru zebranych danych (z Kaggle): Bandi Karthik
 Movie Recommendation System
 ```
