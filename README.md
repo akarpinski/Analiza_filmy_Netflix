@@ -1,9 +1,9 @@
 <img src="Portfolio_Netflix/PG_WFTiMS.jpg" alt="Politechnika Gdańska" width="300" height="auto"> 
 
 ##### PROJEKT (własny) na studiach "Inżynieria danych - Data Science" na Politechnice Gdańskiej.
-###### W katalogu kod z notatnika (Jupyter), strona HTML, dokumentacja. 
+###### W katalogu wszystkie elementy projeku (pliki ipynb, html, pdf). 
 
-- kod w języku Python na edytorze Jupyter Notebook
+- kod w języku Python na edytorze Jupyter Notebook (ipynb)
 - wizualny podgląd w przeglądarce z pliku w Python (ipynb) lub HTML
 - dokładna, pełna dokumentacja projeku w pliku PDF
 
